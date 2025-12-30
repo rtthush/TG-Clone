@@ -1,0 +1,8 @@
+{
+  "channel_suffix": " (BKP)",
+  "performance": {
+    "max_concurrent_transmissions": 8,
+    "max_retries": 3,
+    "delay_between_files": 10
+  }
+}
