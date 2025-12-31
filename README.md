@@ -32,7 +32,9 @@ Pronto! Está instalado.
 
 ## Primeiro acesso no script
 
-- Abra o arquivo exec-tg-clone
+- Abra o arquivo:
+
+		exec-tg-clone.bat
 
 **No primeiro acesso:**
 
