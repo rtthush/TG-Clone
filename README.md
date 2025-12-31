@@ -54,7 +54,7 @@ O Telegram enviará um código para o seu telegram. Digite esse código no scrip
 
 Abra o arquivo:
 
-	exec-tg-clone
+	exec-tg-clone.bat
 
 Selecione a opção que deseja:
 
